@@ -1,0 +1,107 @@
+#logo{
+    padding-left: 30px;
+    padding-top: 30px;
+ }
+ #findus{
+      
+    padding-left: 150px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: "Lato", sans-serif;
+    display: block;
+    color: #000000;
+    font-weight: 400px;
+  }
+  .navigation{
+    margin-top: 30px;
+ }
+ .footer{
+   background-color: black;
+ }
+
+ .footertextcolor {
+  color: aliceblue;
+}
+
+.book {
+  background-color: #6678EA;
+  height: 150px;
+  ;
+}
+
+.travelling {
+  margin-top: 40px;
+}
+.bgcolour{
+  height: 45px;
+}
+        
+        
+.icon-fb{
+  font-size: 25px;
+  padding-left:150px;
+  color: #333333;
+}
+.icon-fb:hover{
+  color: #6678EA;
+}
+.icon-twitter{
+  color: #333333;
+  font-size: 25px;
+  padding-left: 20px;
+
+}
+.icon-twitter:hover{
+  color: #6678EA;
+
+}
+.travelling-plane{
+  padding-top: 30px;
+}
+.icon-gmail{
+  color: #333333;
+  font-size: 25px;
+  padding-left: 20px;
+}
+.icon-gmail:hover{
+  color: #6678EA;
+  ;
+}
+.service{
+  font-size: 60px;
+}
+#service24{
+  font-size: 46px;
+}
+.paraservice{
+ font-size: 18px;
+ padding-top: 30px;
+ color: black;
+}
+.cars-service{
+ padding-top: 100px;
+}
+.Company-overview{
+  padding-top: 50px;
+
+
+}
+#leading-car{
+  color: #66A2F1;
+  font-size: 22px;
+}
+#company{
+   font-size: 65px; 
+}
+
+.aboutpara{
+  font-size: 18px;
+  padding-top: 15px;
+}
+.aboutparapadding{
+  padding-top: 50px;
+}
+.box-shadow:hover{
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  border: 1px solid rgba(81, 203, 238, 1);           
+}
